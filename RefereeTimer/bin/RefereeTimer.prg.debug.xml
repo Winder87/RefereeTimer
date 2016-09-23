@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="31" pc="268435456" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="35" pc="268435460" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="36" pc="268435467" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="39" pc="268435477" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="40" pc="268435488" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="41" pc="268435498" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="45" pc="268435511" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="46" pc="268435511" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="47" pc="268435522" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="49" pc="268435544" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="54" pc="268435563" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="55" pc="268435570" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="58" pc="268435580" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="59" pc="268435591" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="60" pc="268435601" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="64" pc="268435614" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="65" pc="268435614" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="66" pc="268435625" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="68" pc="268435647" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="73" pc="268435666" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="74" pc="268435678" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="76" pc="268435717" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="78" pc="268435753" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="79" pc="268435765" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="80" pc="268435777" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="82" pc="268435816" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="86" pc="268435852" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="87" pc="268435863" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="89" pc="268435902" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="93" pc="268435987" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="94" pc="268435998" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="95" pc="268436034" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="99" pc="268436148" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="100" pc="268436184" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="104" pc="268436306" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="105" pc="268436342" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="109" pc="268436450" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="110" pc="268436486" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="113" pc="268436594" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="114" pc="268436630" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="118" pc="268436727" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="121" pc="268436763" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="122" pc="268436799" symbol="onUpdate"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="125" pc="268436891" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="126" pc="268436895" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="127" pc="268436912" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="128" pc="268436922" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="129" pc="268436947" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="130" pc="268436958" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="133" pc="268436974" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="134" pc="268437058" symbol="getClockTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="142" pc="268437063" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="144" pc="268437067" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="146" pc="268437101" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="147" pc="268437133" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="149" pc="268437149" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="151" pc="268437178" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="154" pc="268437219" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="156" pc="268437253" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="160" pc="268437285" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="161" pc="268437326" symbol="initialize"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="164" pc="268437337" symbol="onMenu"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="177" pc="268437341" symbol="onMenu"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="178" pc="268437377" symbol="onMenu"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="179" pc="268437394" symbol="onMenu"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="180" pc="268437446" symbol="onMenu"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="183" pc="268437450" symbol="showAbout"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="184" pc="268437454" symbol="showAbout"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="185" pc="268437490" symbol="showAbout"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="186" pc="268437507" symbol="showAbout"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="187" pc="268437559" symbol="showAbout"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="191" pc="268437563" symbol="onTap"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="192" pc="268437567" symbol="onTap"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="196" pc="268437580" symbol="onHold"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="197" pc="268437584" symbol="onHold"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="198" pc="268437636" symbol="onHold"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="199" pc="268437654" symbol="onHold"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="202" pc="268437667" symbol="onKey"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="203" pc="268437671" symbol="onKey"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="204" pc="268437698" symbol="onKey"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="206" pc="268437740" symbol="onKey"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="208" pc="268437782" symbol="onKey"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="212" pc="268437798" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="213" pc="268437802" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="215" pc="268437814" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="216" pc="268437825" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="217" pc="268437835" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="220" pc="268437860" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="221" pc="268437870" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="226" pc="268437883" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="228" pc="268437899" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="230" pc="268437911" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="233" pc="268437923" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="234" pc="268437941" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="238" pc="268437985" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="247" pc="268438005" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="249" pc="268438017" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="252" pc="268438029" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="253" pc="268438047" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="257" pc="268438091" symbol="startStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="265" pc="268438105" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="266" pc="268438109" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="269" pc="268438121" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="270" pc="268438154" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="271" pc="268438183" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="277" pc="268438217" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="278" pc="268438236" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="279" pc="268438253" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="281" pc="268438272" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="289" pc="268438287" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="290" pc="268438299" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="293" pc="268438311" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="294" pc="268438327" symbol="timerCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="299" pc="268438340" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="300" pc="268438344" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="303" pc="268438356" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="304" pc="268438389" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="305" pc="268438418" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="311" pc="268438452" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="312" pc="268438471" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="313" pc="268438491" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="315" pc="268438510" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="316" pc="268438522" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="327" pc="268438537" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="328" pc="268438553" symbol="TimerGameTimeCallback"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="333" pc="268438566" symbol="alert"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="334" pc="268438570" symbol="alert"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="338" pc="268438754" symbol="alert"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="342" pc="268438773" symbol="alertGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="343" pc="268438777" symbol="alertGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="344" pc="268438789" symbol="alertGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="348" pc="268438973" symbol="alertGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="349" pc="268438991" symbol="alertGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="357" pc="268439005" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="358" pc="268439009" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="359" pc="268439019" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="360" pc="268439029" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="361" pc="268439039" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="362" pc="268439055" symbol="reachedZero"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="366" pc="268439068" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="367" pc="268439072" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="368" pc="268439082" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="369" pc="268439092" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="370" pc="268439102" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="372" pc="268439112" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="373" pc="268439128" symbol="reachedZeroGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="376" pc="268439141" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="377" pc="268439145" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="378" pc="268439155" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="379" pc="268439165" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="380" pc="268439181" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="382" pc="268439191" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="383" pc="268439201" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="384" pc="268439211" symbol="resetTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="387" pc="268439228" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="388" pc="268439232" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="389" pc="268439242" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="391" pc="268439252" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="392" pc="268439265" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="393" pc="268439275" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="394" pc="268439285" symbol="resetTimerGameTime"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="400" pc="268439302" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="401" pc="268439306" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="402" pc="268439317" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="404" pc="268439348" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="406" pc="268439379" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="414" pc="268439410" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="415" pc="268439446" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="416" pc="268439488" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="417" pc="268439516" symbol="onMenuItem"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="426" pc="268439572" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="427" pc="268439576" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="428" pc="268439586" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="429" pc="268439596" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="430" pc="268439606" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="431" pc="268439616" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="432" pc="268439626" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="433" pc="268439636" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="434" pc="268439669" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="436" pc="268439685" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="437" pc="268439698" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="438" pc="268439708" symbol="setTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="444" pc="268439726" symbol="onNumberPicked"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="445" pc="268439730" symbol="onNumberPicked"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="448" pc="268439754" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="449" pc="268439758" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="450" pc="268439768" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="451" pc="268439778" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="452" pc="268439788" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="453" pc="268439798" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="454" pc="268439808" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="455" pc="268439818" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="456" pc="268439851" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="458" pc="268439867" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="459" pc="268439880" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimerApp.mc" lineNum="460" pc="268439890" symbol="setCustomTimer"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="9" pc="268439909" symbol="getDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="10" pc="268439913" symbol="getDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="11" pc="268439931" symbol="getDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="12" pc="268439938" symbol="getDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="14" pc="268439944" symbol="getDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="19" pc="268439951" symbol="setDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="20" pc="268439955" symbol="setDefaultTimerCount"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="24" pc="268439975" symbol="getRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="25" pc="268439979" symbol="getRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="26" pc="268439997" symbol="getRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="27" pc="268440004" symbol="getRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="29" pc="268440010" symbol="getRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="34" pc="268440014" symbol="setRepeat"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="39" pc="268440019" symbol="onStart"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="44" pc="268440024" symbol="onStop"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="49" pc="268440029" symbol="getInitialView"/>
+<entry filename="D:\\Courses\\GarminDEV\\05\\RefereeTimer\\source\\RefereeTimer.mc" lineNum="50" pc="268440033" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="12" pc="268440102" symbol="initialize"/>
+<entry filename="Rez" lineNum="13" pc="268440106" symbol="initialize"/>
+<entry filename="Rez" lineNum="14" pc="268440124" symbol="initialize"/>
+<entry filename="Rez" lineNum="15" pc="268440146" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268440168" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268440191" symbol="initialize"/>
+<entry filename="Rez" lineNum="26" pc="268440195" symbol="initialize"/>
+<entry filename="Rez" lineNum="27" pc="268440213" symbol="initialize"/>
+<entry filename="Rez" lineNum="28" pc="268440235" symbol="initialize"/>
+<entry filename="Rez" lineNum="29" pc="268440257" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268440279" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="19" symbol="m_savedClockMins"/>
+<entry id="8389102" method="true" symbol="onNumberPicked"/>
+<entry id="30" method="true" symbol="getDefaultTimerCount"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="51" method="true" symbol="setTimer"/>
+<entry field="true" id="18" symbol="m_invertColors"/>
+<entry id="31" method="true" symbol="setDefaultTimerCount"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="29" object="true" symbol="RefereeTimer"/>
+<entry id="26" object="true" symbol="RefereeTimerMenuDelegate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="12" symbol="m_actualtimeReachedZero"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="25" object="true" symbol="RefereeTimerDelegate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="13" symbol="m_gametime"/>
+<entry field="true" id="20" symbol="m_showClock"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="23" symbol="m_alreadyAlerted"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="24" object="true" symbol="RefereeTimerView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="38" method="true" symbol="alert"/>
+<entry field="true" id="49" symbol="AppName"/>
+<entry id="8389343" symbol="minutes"/>
+<entry id="28" object="true" symbol="showAboutMenuDelegate"/>
+<entry id="37" method="true" symbol="TimerGameTimeCallback"/>
+<entry field="true" id="14" symbol="m_gametimeDefaultCount"/>
+<entry id="52" symbol="item_45"/>
+<entry id="53" symbol="item_40"/>
+<entry id="54" symbol="item_30"/>
+<entry id="39" method="true" symbol="alertGameTime"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="35" method="true" symbol="startStop"/>
+<entry id="57" symbol="item_2"/>
+<entry id="56" symbol="item_1"/>
+<entry field="true" id="10" symbol="m_actualtimeCount"/>
+<entry field="true" id="46" symbol="LauncherIcon"/>
+<entry field="true" id="8" symbol="m_actualtime"/>
+<entry id="41" method="true" symbol="reachedZeroGameTime"/>
+<entry id="8388646" symbol="Timer"/>
+<entry field="true" id="16" symbol="m_gametimeRunning"/>
+<entry field="true" id="11" symbol="m_actualtimeRunning"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="34" method="true" symbol="showAbout"/>
+<entry id="32" method="true" symbol="getRepeat"/>
+<entry id="42" method="true" symbol="resetTimer"/>
+<entry field="true" id="17" symbol="m_gametimeOver"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="33" method="true" symbol="setRepeat"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="8388714" method="true" symbol="getClockTime"/>
+<entry id="47" object="true" symbol="AboutMenu"/>
+<entry id="45" module="true" symbol="Layouts"/>
+<entry field="true" id="21" symbol="m_showPaused"/>
+<entry id="55" symbol="item_custom"/>
+<entry id="40" method="true" symbol="reachedZero"/>
+<entry id="48" object="true" symbol="RefereeTimerMenu"/>
+<entry id="27" object="true" symbol="CustomTimePickerDelegate"/>
+<entry field="true" id="9" symbol="m_actualtimeDefaultCount"/>
+<entry id="8389099" method="true" symbol="onHold"/>
+<entry id="36" method="true" symbol="timerCallback"/>
+<entry id="43" method="true" symbol="resetTimerGameTime"/>
+<entry id="50" method="true" symbol="setCustomTimer"/>
+<entry id="44" module="true" symbol="Menus"/>
+<entry field="true" id="15" symbol="m_gametimeCount"/>
+<entry field="true" id="22" symbol="m_GameTimePaused"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436890" name="minGameTime" stackId="5" startPc="268435460"/>
+<entry endPc="268436890" name="min" stackId="2" startPc="268435460"/>
+<entry endPc="268436890" name="secGameTime" stackId="6" startPc="268435460"/>
+<entry endPc="268436890" name="sec" stackId="3" startPc="268435460"/>
+<entry endPc="268436890" name="stringGameTime" stackId="7" startPc="268435460"/>
+<entry endPc="268436890" name="stringActualTime" stackId="4" startPc="268435460"/>
+<entry endPc="268437061" name="hours" stackId="2" startPc="268436895"/>
+<entry endPc="268437061" name="timeString" stackId="3" startPc="268436895"/>
+<entry endPc="268437061" name="clockTime" stackId="1" startPc="268436895"/>
+<entry endPc="268437449" name="menu" stackId="1" startPc="268437341"/>
+<entry endPc="268437562" name="menu" stackId="1" startPc="268437454"/>
+<entry endPc="268437666" name="vibe" stackId="1" startPc="268437584"/>
+<entry endPc="268438772" name="vibe" stackId="1" startPc="268438570"/>
+<entry endPc="268439001" name="vibeGameTime" stackId="1" startPc="268438789"/>
+<entry endPc="268439568" name="customTimePicker" stackId="3" startPc="268439410"/>
+<entry endPc="268439568" name="customDuration" stackId="2" startPc="268439410"/>
+<entry endPc="268439950" name="time" stackId="1" startPc="268439913"/>
+<entry endPc="268440013" name="repeat" stackId="1" startPc="268439979"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onUpdate" parent="RefereeTimerView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getClockTime" parent="RefereeTimerView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="showAbout" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="RefereeTimerDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHold" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="RefereeTimerDelegate">
+<param id="key"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startStop" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="timerCallback" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="TimerGameTimeCallback" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="alert" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="alertGameTime" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="reachedZero" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="reachedZeroGameTime" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="resetTimer" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="resetTimerGameTime" parent="RefereeTimerDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="RefereeTimerMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setTimer" parent="RefereeTimerMenuDelegate">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNumberPicked" parent="CustomTimePickerDelegate">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setCustomTimer" parent="CustomTimePickerDelegate">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getDefaultTimerCount" parent="RefereeTimer">
+<documentation/>
+</functionEntry>
+<functionEntry name="setDefaultTimerCount" parent="RefereeTimer">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getRepeat" parent="RefereeTimer">
+<documentation/>
+</functionEntry>
+<functionEntry name="setRepeat" parent="RefereeTimer">
+<param id="repeat"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="RefereeTimer">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="RefereeTimer">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="RefereeTimer">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AboutMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="RefereeTimerMenu">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

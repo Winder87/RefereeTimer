@@ -1,0 +1,7 @@
+<menu id="RefereeTimerMenu">
+    <menu-item id="item_45">45:00</menu-item>
+    <menu-item id="item_40">40:00</menu-item>
+    <menu-item id="item_30">30:00</menu-item>
+    <menu-item id="item_custom">Custom Time</menu-item>
+<!--<menu-item id="item_repeat">Repeat</menu-item>  -->    
+</menu>

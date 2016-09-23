@@ -1,0 +1,6 @@
+<menu id="AboutMenu">
+    <menu-item id="item_1">Version: v0.5</menu-item>
+    <menu-item id="item_2">23Sept2016</menu-item>
+    <menu-item id="item_2">Gofasterdjh</menu-item>
+<!--<menu-item id="item_repeat">Repeat</menu-item>  -->    
+</menu>
