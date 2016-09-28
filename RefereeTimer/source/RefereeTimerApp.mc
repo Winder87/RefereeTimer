@@ -7,6 +7,7 @@ using Toybox.Timer as Timer;
 using Toybox.Attention as Attn;
 using Toybox.Time.Gregorian as Cal;
 using Toybox.Time as Time;
+using Toybox.ActivityRecording as Record;
 
 // globals
 var m_actualtime;
@@ -25,9 +26,24 @@ var m_showClock = true;
 var m_showPaused = false;
 var m_GameTimePaused = false;
 var m_alreadyAlerted = false;
+var session = null;
+var m_enterPressed = false;
+var lap = 1;
 
 class RefereeTimerView extends Ui.View
 {
+    //AW - Stop recording if it's still running when ending the app.
+    function stopRecording() {
+        if( Toybox has :ActivityRecording ) {
+            if( session != null && session.isRecording() ) {
+                session.stop();
+                session.save();
+                session = null;
+                Ui.requestUpdate();
+            }
+        }
+    }
+    
     function onUpdate(dc)
     {
     
@@ -120,7 +136,7 @@ class RefereeTimerView extends Ui.View
         //Display the Game Time - small top
         dc.setColor( Gfx.COLOR_GREEN, Gfx.COLOR_TRANSPARENT );
         dc.drawText( (dc.getWidth() / 2), (dc.getHeight() / 2) - 58, Gfx.FONT_MEDIUM, stringGameTime , Gfx.TEXT_JUSTIFY_CENTER | Gfx.TEXT_JUSTIFY_VCENTER );
-    }
+	}
     
     function getClockTime() {
         var clockTime = Sys.getClockTime();
@@ -189,7 +205,7 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
     
     // tap to start/stop timer
     function onTap(evt) {
-        startStop();
+        //startStop();
     }
     
     // hold to reset timer
@@ -201,6 +217,7 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
     
     function onKey(key) {
         if (key.getKey() == Ui.KEY_ENTER) {
+            m_enterPressed = true;
             startStop();
         } else if (key.getKey() == Ui.KEY_UP) {
             onMenu();
@@ -208,24 +225,36 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
             showAbout();
         }
 	}      
-          
+    
     function startStop() {   
-    alert();  
-    //DH - Show the clock when not paused, show PAUSED when paused. 
-    if (m_actualtimeRunning) {
-    	m_showClock = false;
-    	m_showPaused = true;
-    }
-    else if (!m_actualtimeRunning) {
-    	m_showClock = true;
-    	m_showPaused = false;		
-   	}
+	    alert();  
+	    //DH - Show the clock when not paused, show PAUSED when paused. 
+	    if (m_actualtimeRunning) {
+	    	if (m_actualtimeReachedZero) {
+			
+	    	} else {
+	    		m_showClock = false;
+	    		m_showPaused = true;
+	    	
+	    	}
+	    }
+	    else if (!m_actualtimeRunning) {
+	    	m_showClock = true;
+	    	m_showPaused = false;
+	    	if( Toybox has :ActivityRecording ) {
+	            if( ( session == null ) || ( session.isRecording() == false ) ) {
+	                session = Record.createSession({:name=>"Run", :sport=>Record.SPORT_RUNNING});
+	                session.start();
+	                
+	        	}
+	    	}		
+   		}
    	
     //what happens when the ENTER button is pressed  	
     	
         Ui.requestUpdate();      
         //Actual time. This starts and stops when the ENTER button is pressed.  
-         if (!m_actualtimeReachedZero) { 
+        if (!m_actualtimeReachedZero) { 
         //Actual timer has not reached zero so there is still actual time remaining.
         	if (!m_actualtimeRunning) {
         	//if actual time is not running, i.e. is already in a paused state, then restart the timer
@@ -237,7 +266,8 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
             //if the timer has reached zero then it is not running, so set the state to not running.    
             m_actualtimeRunning = !m_actualtimeRunning;
             //set timer to not running as it has reached zero
-        } else {
+        } 
+        else {
         /*  resetTimerGameTime();
             resetTimer();*/
          //Reset the timer once actual time is finished  
@@ -256,7 +286,8 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
             // DH - this starts the Game Time running but it never stops. 
             m_gametimeRunning = true;
             //always keep game time running
-        } else {         
+        } 
+        else {         
 
             // set to not running, not zero
         }       
@@ -275,29 +306,50 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
             // decrement the timer until zero, refreshing the UI each time
             // when zero is reached, trigger alerts
             m_actualtimeCount -= 1;
+            m_enterPressed = false;
             if (m_actualtimeCount > 0) {
                 Ui.requestUpdate();
             } else  {
                 reachedZero();
             }
-        } else {
+        } else if (!m_enterPressed){
+        	Ui.requestUpdate();
+            
         
-        	// DH - Reset the timer but do not restart it automatically. Only reset when actual time is up.
-            // state 3: timer has completed
-            // repeat or alert based on user configuration
-          	// if (m_repeat) {
-                resetTimer();
-                resetTimerGameTime();           
-            //   startStop();
-          	//  } else {
-                Ui.requestUpdate();
-                alert();
-           // }
+        } else {
+//        	if (lap == 1) {
+//        		resetTimer();
+//        		m_gametime.stop();
+//        		m_gametimeCount = m_gametimeDefaultCount;
+//        		Ui.requestUpdate();
+//                alert();
+//                lap += 1;
+//        	} else if (lap == 2) {
+        		
+        
+	        	// DH - Reset the timer but do not restart it automatically. Only reset when actual time is up.
+	            // state 3: timer has completed
+	            // repeat or alert based on user configuration
+	          	// if (m_repeat) {
+	            	  resetTimer();
+	                  resetTimerGameTime();           
+	            //   startStop();
+	          	//  } else {
+	                Ui.requestUpdate();
+	                alert();
+	           if( ( session != null ) && session.isRecording() ) {
+	                session.stop();
+	                session.save();
+	                session = null;
+	                Ui.requestUpdate();
+	            }
+//            }
         }
     }
     
      function TimerGameTimeCallback() {
         if (!m_gametimeRunning) {
+        	
             // state 1: timer is not running
             // refresh the UI only if the minute has changed
             if (m_savedClockMins != Sys.getClockTime().min) {
@@ -311,9 +363,11 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
             m_gametimeCount += 1;
             if (m_gametimeCount < m_gametimeDefaultCount) {
                 Ui.requestUpdate();
-            } else  {
+            } else if (!m_alreadyAlerted) {
                 reachedZeroGameTime();
                 alertGameTime();
+            } else {
+            	Ui.requestUpdate();
             }
         } else {
             /* DH - Reset the timer but do not restart it automatically
@@ -366,7 +420,7 @@ class RefereeTimerDelegate extends Ui.BehaviorDelegate {
     function reachedZeroGameTime() {
     	m_GameTimePaused = true;
     	m_showClock= false;
-        m_gametimeOver = true;
+        //m_gametimeOver = true;
         m_alreadyAlerted = false;
         //m_invertColors = true;
         Ui.requestUpdate();
